@@ -1,5 +1,5 @@
 import unittest
-import List from typing
+from typing import List
 from GitHubAPI import git_hub_api
 
 
