@@ -1,6 +1,6 @@
 import requests
 import json
-
+import List from typing
 
 def git_hub_api(name_of_repo: str) -> List:
     answer = []
